@@ -1,4 +1,4 @@
-# ➗ Linked-List Polynomial Processor ➗
+# ➗ Polynomial Processor ➗
 
 > A specialized C++ engine designed to perform arithmetic operations on polynomials using dynamic linked list structures. This system handles complex algebraic expressions with both positive and negative exponents, ensuring high precision in term management and memory allocation.
 
